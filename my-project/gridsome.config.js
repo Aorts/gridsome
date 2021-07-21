@@ -7,6 +7,8 @@
 module.exports = {
   siteName: 'Witcher',
   siteDescription: "Welcome to world of the witcher",
+  siteUrl: 'https://Aorts.github.io',
+  pathPrefix: '/gridsome',
   plugins: [
     {
       use: 'gridsome-plugin-tailwindcss',
